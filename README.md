@@ -1,2 +1,2 @@
 # munos_project
-Munos project
+The Munos project is comprised of Katya Rodríguez, Cuauhtémoc López, and Felipe Belmont.
